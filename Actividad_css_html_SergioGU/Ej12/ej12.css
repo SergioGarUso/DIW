@@ -1,0 +1,24 @@
+
+
+
+
+.boton {
+    display: inline-block;
+    
+    
+    text-align: left;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+#boton1 {
+    background-color: pink;
+    width: 100px;
+    height: 50px;
+}
+
+#boton2 {
+    background-color: lightblue;
+    width: 100px;
+    height: 50px;
+}
