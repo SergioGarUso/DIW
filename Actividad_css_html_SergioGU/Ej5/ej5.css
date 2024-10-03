@@ -16,13 +16,17 @@ h1 {
 nav {
     text-align: left;
     background-color: yellow;
-    padding: 10px 0;
+    padding: 0px;
+    margin: 20px auto;
+    width: 79%;
+    
+    
 }
 
 nav a {
-    text-decoration: none;
-    color: black;
-    margin: 0 10px;
+    text-decoration: underline;
+    color: blue;
+    margin: 0 0px;
     font-weight: bold;
 }
 
