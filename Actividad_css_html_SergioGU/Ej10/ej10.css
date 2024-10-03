@@ -1,0 +1,15 @@
+.bloque1 {
+    width: 100px;
+    height: 100px;
+    background-color: #35d4ca;
+    position: absolute;
+    right: 50px;
+}
+
+.bloque2 {
+    width: 100px;
+    height: 100px;
+    background-color: #507beb;
+    position: relative;
+
+}
