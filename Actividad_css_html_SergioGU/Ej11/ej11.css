@@ -12,7 +12,7 @@
     background-color: #35d4ca;
     position: absolute;
    
-    z-index: 1;}
+    z-index: 3;}
 
 .bloque2 {
     width: 100px;
@@ -21,7 +21,7 @@
     position: absolute;
     top: 100px;
     left: 30px;
-    z-index: 3; }
+    z-index: 1; }
 
 
 .bloque3 {
@@ -31,4 +31,4 @@
     position: absolute;
     top: 130px;
     left: 50px;
-    z-index: 1; }
+    z-index: 2; }
