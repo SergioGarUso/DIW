@@ -1,0 +1,35 @@
+
+.contenedor {
+    position: relative; 
+    width: 200px;
+    height: 200px;
+}
+
+
+.bloque1 {
+    width: 100px;
+    height: 100px;
+    background-color: #35d4ca;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;}
+
+.bloque2 {
+    width: 100px;
+    height: 100px;
+    background-color: magenta;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    z-index: 2; }
+
+
+.bloque3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+    z-index: 1; }
